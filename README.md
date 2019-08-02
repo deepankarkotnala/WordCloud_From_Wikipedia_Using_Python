@@ -1,4 +1,11 @@
 # WordCloud From Wikipedia Using Python
+
+This code can be used to create word cloud for any topic present on wikipedia. 
+The code prompts user to enter:
+- The 'Topic' for which wordcloud needs to be generated
+- The number of words to be included in the WordCloud
+- The name of WordCloud file to be generated
+
 ![alt text](https://github.com/deepankarkotnala/WordCloud_From_Wikipedia_Using_Python/blob/master/images/data_science_wordcloud.png)
 
 ### Here is the Code: 
