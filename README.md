@@ -1,4 +1,9 @@
 # WordCloud From Wikipedia Using Python
+![alt text](https://github.com/deepankarkotnala/WordCloud_From_Wikipedia_Using_Python/blob/master/images/data_science_wordcloud.png)
+
+![alt text](https://github.com/deepankarkotnala/WordCloud_From_Wikipedia_Using_Python/blob/master/images/Prompt.JPG)
+
+### Here is the Code: 
 
 ```Python
 import wikipedia
@@ -43,9 +48,10 @@ def create_wordcloud(text):
 	print("WordCloud created at the following location: {}".format(os.path.join(currdir, "{}.png".format(name_of_file))))
 ```
 
-# Calling the function to create the WordCloud
+#### Calling the function to create the WordCloud
 ```Python
 create_wordcloud(get_wiki(title))
 ```
+
 
 
