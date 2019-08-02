@@ -7,7 +7,6 @@ The code prompts user to enter:
 - The name of WordCloud file to be generated
 
 ![alt text](https://github.com/deepankarkotnala/WordCloud_From_Wikipedia_Using_Python/blob/master/images/data_science_wordcloud.png)
-
 ### Here is the Code: 
 
 ```Python
