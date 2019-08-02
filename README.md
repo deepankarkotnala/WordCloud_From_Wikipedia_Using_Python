@@ -1,8 +1,6 @@
 # WordCloud From Wikipedia Using Python
 ![alt text](https://github.com/deepankarkotnala/WordCloud_From_Wikipedia_Using_Python/blob/master/images/data_science_wordcloud.png)
 
-![alt text](https://github.com/deepankarkotnala/WordCloud_From_Wikipedia_Using_Python/blob/master/images/Prompt.JPG)
-
 ### Here is the Code: 
 
 ```Python
@@ -52,6 +50,6 @@ def create_wordcloud(text):
 ```Python
 create_wordcloud(get_wiki(title))
 ```
-
+![alt text](https://github.com/deepankarkotnala/WordCloud_From_Wikipedia_Using_Python/blob/master/images/Prompt.JPG)
 
 
