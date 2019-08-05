@@ -1,4 +1,4 @@
-# WordCloud From Wikipedia Using Python
+## WordCloud From Wikipedia Using Python
 
 This code can be used to create word cloud for any topic present on wikipedia. 
 
